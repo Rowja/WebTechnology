@@ -1,0 +1,56 @@
+body {
+    background-image: url(blueback.jpg);
+    background-size:cover ;
+    background-position: center;
+    
+    font-family:sans-serif;
+}
+
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+h1, h2, h3, h4 {
+	margin-top: 0;
+}
+
+.room {
+	margin-bottom: 30px;
+}
+
+.reserve-btn {
+	display: inline-block;
+	background-color: #4CAF50;
+	color: white;
+	padding: 10px 20px;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
+form {
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+label {
+	display: block;
+	margin-top: 10px;
+}
+
+input[type="text"], input[type="email"], input[type="date"], input[type="submit"] {
+	width: 100%;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+
+input[type="submit"] {
+	background-color: #4CAF50;
+	color: white;
+	font-size: 16px;
+	cursor: pointer;
+}

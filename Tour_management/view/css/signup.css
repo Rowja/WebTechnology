@@ -1,0 +1,59 @@
+
+body{
+     
+     
+    background-image: url("blueback.jpg");
+    
+  }
+  .main-content{
+  width: 50%;
+  height: 40%;
+  margin: 100px auto;
+  
+  
+  border: 2px solid #000;
+  padding: 40px 50px;
+  }
+  .header{
+  border: 0px solid #fff;
+  margin-bottom: 5px;
+  }
+  .well{
+  background-color: #18ab9a;
+  }
+  
+  input[type="email"],
+  input[type="password"],
+  input[type="fname"] ,
+  input[type="lastname"] ,
+  input[type="address"] ,
+  input[type="gender"] ,
+  input[type="birthday"] 
+  {
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  #signup{
+    width: 60%;
+    border-radius: 30px;
+}
+  
+  
+  .overlap-text{
+  position: relative;
+  }
+  .overlap-text a{
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  font-size: 14px;
+  text-decoration: none;
+  font-family: 'Overpass Mono', monospace;
+  letter-spacing: -1px;
+  
+  }
+  

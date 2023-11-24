@@ -1,0 +1,27 @@
+[
+    {
+        "donorname": "John",
+        "mobilenumber": "0183422932",
+        "amount": "2000"
+    },
+    {
+        "donorname": "Claire",
+        "mobilenumber": "0173243473",
+        "amount": "3000"
+    },
+    {
+        "donorname": "helen",
+        "mobilenumber": "123456789",
+        "amount": "2000"
+    },
+    {
+        "donorname": "Chora",
+        "mobilenumber": "34565555",
+        "amount": "90"
+    },
+    {
+        "donorname": "Rowja",
+        "mobilenumber": "12345678",
+        "amount": "50000"
+    }
+]

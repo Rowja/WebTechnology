@@ -1,0 +1,33 @@
+.container {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+form {
+  display: inline-block;
+}
+
+label {
+  font-size: 1.2rem;
+}
+
+input[type=text] {
+  font-size: 1.2rem;
+  margin-left: 0.5rem;
+}
+
+button {
+  font-size: 1.2rem;
+  margin-left: 0.5rem;
+}
+
+select {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,51 @@
+
+body{
+     
+     
+  background-image: url("blueback.jpg");
+  
+}
+.main-content{
+width: 50%;
+height: 40%;
+margin: 100px auto;
+
+
+border: 2px solid #000;
+padding: 40px 50px;
+}
+.header{
+border: 0px solid #fff;
+margin-bottom: 5px;
+}
+.well{
+background-color: #18ab9a;
+}
+
+input[type="email"],
+input[type="password"] {
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+#signin{
+padding: 10px 20px;
+border-radius: 4px;
+
+}
+.overlap-text{
+position: relative;
+}
+.overlap-text a{
+position: absolute;
+top: 8px;
+right: 10px;
+font-size: 14px;
+text-decoration: none;
+font-family: 'Overpass Mono', monospace;
+letter-spacing: -1px;
+
+}
